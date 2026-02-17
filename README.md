@@ -22,6 +22,4 @@ La aplicación permite generar visualizaciones interactivas para analizar:
 
 ---
 
-## 🗂 Dataset
 
-Archivo utilizado:
