@@ -23,4 +23,4 @@ La aplicación permite generar visualizaciones interactivas para analizar:
 ---
 
 proyecto link
-https://tripleten-gv8u.onrender.com
+https://tripleten-o4tq.onrender.com/
